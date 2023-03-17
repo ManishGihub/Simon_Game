@@ -1,5 +1,5 @@
 # Simon_Game
-<a href="https://manishgihub.github.io/Simon_Game/">Click Here To Play Dicee Game</a><br><br>
+<a href="https://manishgihub.github.io/Simon_Game/">Click Here To Play Simon Game</a><br><br>
 This is Simon Game made with HTML, CSS, Javascript and JQuery.
 
 
